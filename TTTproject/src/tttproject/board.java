@@ -1,0 +1,6 @@
+
+package tttproject;
+
+class board {
+    
+}
